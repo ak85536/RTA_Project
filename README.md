@@ -16,7 +16,13 @@ c) symbiosis of the data obtained to select the most "moving" valuable papers wi
 
 ## CODE IN JUPYTER
 
-When running install.library() function, you need to select "Other mirrors" and then the "Cloud"" (number 1)
+When running install.library() function, you need to select "Other mirrors"
+
+![img1](https://github.com/monkeyflwr/RTA_Project/blob/main/install.library_1.png)
+
+and then the Cloud (number 1)
+
+![img2](https://github.com/monkeyflwr/RTA_Project/blob/main/install.library_2.png)
 
 ##  DOCKER
 
