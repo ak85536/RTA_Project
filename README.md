@@ -30,7 +30,7 @@ And then run it with
 docker run --rm -it -p 8888:8888 rta_project:latest
 ```
 
-Alternatively, you can run a container directly from Docker Hub
+Alternatively, you can run a container directly from [Docker Hub](https://hub.docker.com/r/anastasikar/rta_project)
 ```
 docker run --rm -it -p 8888:8888 anastasikar/rta_project:latest
 ```
