@@ -50,3 +50,14 @@ After running the container, copy the last link in the console and open it in th
 
 ## CODE AVAILABLE ON COLAB:
 https://colab.research.google.com/drive/1a1u-5D8vAOKFesgjzZVYqtG2A57c7llM?usp=sharing
+
+## Authors
+
+[Anastasia Karuzina 85536](https://github.com/monkeyflwr)
+
+[Mateusz Konarczyk 119461](https://github.com/matkonar)
+
+[Anastasiya Pogrebytska 110068](https://github.com/nastasiapgr)
+
+[Barbara Śmiech 77571](https://github.com/BSmiech)
+
